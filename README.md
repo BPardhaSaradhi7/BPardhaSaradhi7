@@ -4,14 +4,14 @@ Hi 👋! My name is Pardhu Saradhi and I'm a Computer Science student & aspiring
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BPardhaSaradhi7&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BPardhaSaradhi7&layout=compact&langs_count=8&theme=dracula" height="150" />
-</div>
+<img align="right" height="130" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BPardhaSaradhi7&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BPardhaSaradhi7&layout=compact&theme=dracula" height="150" />
+</div>
 
 ###
 
@@ -20,14 +20,14 @@ Hi 👋! My name is Pardhu Saradhi and I'm a Computer Science student & aspiring
 - 💻 Strong in **Java, C, and Data Structures & Algorithms**
 - 🌐 Proficient in **HTML, CSS, JavaScript**
 - ⚙️ Full Stack experience with **Spring Boot, React, MySQL**
-- 🧠 Actively building projects in **Machine Learning, Deep Learning & Computer Vision**
+- 🧠 Developing projects in **Machine Learning, Deep Learning & Computer Vision**
 - 🤖 Worked on **Object Detection, Visual Recognition & Scene Understanding**
-- ☁️ Completed a **full-fledged CI/CD & Cloud course**
-- 🔍 Open to **internship / full-time opportunities**
+- ☁️ Successfully completed a **full-fledged CI/CD & Cloud course**
+- 🔍 **Open to Work** (Internships / Full-Time)
 
 ###
 
-<h3 align="left">🧑‍💻 Core Tech Stack</h3>
+<h3 align="left">🧑‍💻 Programming Languages</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
@@ -35,12 +35,24 @@ Hi 👋! My name is Pardhu Saradhi and I'm a Computer Science student & aspiring
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
+</div>
+
+###
+
+<h3 align="left">🌐 Frontend</h3>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" style="background-color:white;" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" />
 </div>
 
 ###
@@ -59,18 +71,6 @@ Hi 👋! My name is Pardhu Saradhi and I'm a Computer Science student & aspiring
 
 ###
 
-<h3 align="left">🎨 Frontend & UI</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" />
-</div>
-
-###
-
 <h3 align="left">🤖 AI / ML / Computer Vision</h3>
 
 <div align="left">
@@ -79,10 +79,10 @@ Hi 👋! My name is Pardhu Saradhi and I'm a Computer Science student & aspiring
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" />
 </div>
 
-- Machine Learning & Deep Learning
-- CNN, ANN, RNN, GAN
-- Object Detection & Visual Recognition
-- Scene Understanding
+- Machine Learning & Deep Learning  
+- CNN, ANN, RNN, GAN  
+- Object Detection  
+- Visual Recognition & Scene Understanding  
 
 ###
 
@@ -103,8 +103,9 @@ Hi 👋! My name is Pardhu Saradhi and I'm a Computer Science student & aspiring
 </div>
 
 - AWS: **EC2, RDS, Aurora, VPC, Lambda**
-- CI/CD pipelines using **Jenkins & GitHub**
-- Containerization & orchestration with **Docker & Kubernetes**
+- CI/CD pipelines using **Jenkins**
+- Containerization with **Docker**
+- Orchestration with **Kubernetes**
 
 ###
 
