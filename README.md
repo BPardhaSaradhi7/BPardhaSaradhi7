@@ -1,5 +1,5 @@
 <h2 align="left">
-Hi 👋! My name is Pardha Saradhi and I'm a Computer Science student & aspiring Full Stack / Software Engineer, from India 🇮🇳
+Hi 👋! My name is Boddu Pardha Saradhi and I'm a Computer Science student & aspiring Full Stack / Software Engineer, from India 🇮🇳
 </h2>
 
 ###
