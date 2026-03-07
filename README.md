@@ -149,6 +149,29 @@
 | 👁️ **Computer Vision** | Object Detection, Visual Recognition, Scene Understanding |
 </details>
 
+---
+
+### 🏅 Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/64ed471d-9010-4c6c-94de-1495b7d55c09/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/6841c61a-4e3e-4e4c-8f6e-7a8e8c7a9d92/aws-certified-cloud-practitioner.png" width="160" alt="AWS Certified Cloud Practitioner Badge"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+| Certification                       | Issuer              | Status   |
+| ----------------------------------- | ------------------- | -------- |
+| ☁️ AWS Certified Cloud Practitioner | Amazon Web Services | ✅ Earned |
+
+---
+
+
 <details open>
 <summary><b>☁️ DevOps, CI/CD & Cloud</b></summary>
 <br />
